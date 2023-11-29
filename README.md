@@ -8,7 +8,7 @@ The purpose of this project is to design and display a registration form.
 
 Html, Css, JavaScript, Bootstrap.
 
-### Requirements
+## Requirements
 
 -One background image
 - One form with text, select, radio button, submit button
@@ -19,7 +19,7 @@ Html, Css, JavaScript, Bootstrap.
 - all fields are required and must be checked via JS on submit 
 - on submit, form needs to be routed to a new page that will just say 'Form is submitted'. No processing needed at this time
 
-### Perform
+## Perform
 
 #### HTML
 I have created a significant portion of my code using Bootstrap, which has provided me with a great deal of convenience. I
