@@ -19,7 +19,7 @@ Html, Css, JavaScript, Bootstrap.
 - all fields are required and must be checked via JS on submit 
 - on submit, form needs to be routed to a new page that will just say 'Form is submitted'. No processing needed at this time
 
-## Perform
+## Carry Through
 
 #### HTML
 I have created a significant portion of my code using Bootstrap, which has provided me with a great deal of convenience. I
